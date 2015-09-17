@@ -1,15 +1,13 @@
-## this is a mark down
-
-## vim editor is a great tool for text editing
+## How to push files to the github from local repository
 
 ## clone first
 git clone https://github.com/sytang112/newRepository.git
 
 ## add the file 
 * git add filename
->
-> -- or add all files
->
+
+>-- or add all files
+
 * git add . 
 
 ## submit a commit
